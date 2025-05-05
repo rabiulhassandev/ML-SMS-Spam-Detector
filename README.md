@@ -19,7 +19,7 @@ This is a simple Flask-based web application that uses the Naive Bayes algorithm
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sms-spam-classifier.git
+git clone https://github.com/rabiulhassandev/ML-SMS-Spam-Detector.git
 cd sms-spam-classifier
 ```
 
@@ -72,6 +72,12 @@ You can test the app with custom inputs like:
 
 ---
 
+## 🧠 Also, you can see the Dataset Classification Report (Run)
+
+```bash
+dataset_classification_report app.py
+```
+
 ## 📸 Screenshots
 
 ![Web UI](static/plots/label_distribution.png)
@@ -84,25 +90,16 @@ You can test the app with custom inputs like:
 sms-spam-classifier/
 │
 ├── app.py
-├── SMSSpamCollection          # Dataset (download separately)
+├── dataset_classification_report.py
+├── SMSSpamCollection          # Dataset 
 ├── static/
 │   ├── plots/
-│   │   └── label_distribution.png
+│   │   └── app.jpg
+|   |   └── web-ui.jpg # http://127.0.0.1:5000
+|   |   └── dataset-report.jpg
+|   |   └── label-distribution.jpg
 │   └── style.css
 ├── templates/
 │   └── index.html
 └── README.md
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ✨ Credits
-
-- Dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- Built with ❤️ using Flask, Scikit-learn, and Matplotlib
