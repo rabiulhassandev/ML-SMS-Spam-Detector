@@ -83,7 +83,7 @@ dataset_classification_report app.py
 ![Web UI](static/plots/app.jpg)
 ![Web UI](static/plots/web-ui.jpg)
 ![Web UI](static/plots/dataset-report.jpg)
-![Web UI](static/plots/label-distribution.jpg)
+![Web UI](static/plots/label-distribution.png)
 
 ---
 
