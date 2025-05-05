@@ -80,10 +80,12 @@ dataset_classification_report app.py
 
 ## 📸 Screenshots
 
-![Web UI](static/plots/app.jpg)
-![Web UI](static/plots/web-ui.jpg)
-![Web UI](static/plots/dataset-report.jpg)
-![Web UI](static/plots/label-distribution.png)
+<p align="center">
+  <img src="static/plots/app.jpg" alt="App Screenshot" width="200"/>
+  <img src="static/plots/web-ui.jpg" alt="Web UI Screenshot" width="200"/>
+  <img src="static/plots/dataset-report.jpg" alt="Dataset Report Screenshot" width="200"/>
+  <img src="static/plots/label-distribution.png" alt="Label Distribution Screenshot" width="200"/>
+</p>
 
 ---
 
