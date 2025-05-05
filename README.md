@@ -80,7 +80,10 @@ dataset_classification_report app.py
 
 ## 📸 Screenshots
 
-![Web UI](static/plots/label_distribution.png)
+![Web UI](static/plots/app.png)
+![Web UI](static/plots/web-ui.png)
+![Web UI](static/plots/dataset-report.png)
+![Web UI](static/plots/label-distribution.png)
 
 ---
 
